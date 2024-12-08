@@ -9,6 +9,16 @@
 
 ---
 
+## 🎨 **Random Fun GIF to Inspire You**
+
+Here’s a random inspirational GIF to keep you motivated:
+
+![Random GIF](https://api.giphy.com/v1/gifs/random?api_key=YOUR_API_KEY&tag=motivation&rating=g)
+
+> Get your own random GIF by replacing `YOUR_API_KEY` with your own key from [Giphy API](https://developers.giphy.com/).
+
+---
+
 ## 🚀 **Overview**
 
 **Ibna Mahmud Likhon** is a **Blockchain Innovator**, **Python Specialist**, and **Node.js Expert** with a deep passion for building decentralized solutions. With a focus on **smart contract development**, **blockchain security**, and **decentralized applications (DApps)**, I strive to build scalable, secure, and efficient solutions for the Web3 ecosystem.
@@ -35,6 +45,20 @@
 ## 📈 **Top Languages**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnamahmudlikhon&layout=compact&theme=radical&hide=html)
+
+---
+
+## 🔧 **Profile Stats & Contributions**
+
+Here’s an advanced profile table that displays your profile views, total contributions, and other stats:
+
+| **Metric** | **Value** |
+| ---------- | --------- |
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=ibnamahmudlikhon) |
+| **Total Commits** | ![Total Commits](https://img.shields.io/github/commit-activity/y/ibnamahmudlikhon) |
+| **Contributions** | ![Contributions](https://img.shields.io/github/commit-activity/m/ibnamahmudlikhon) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/ibnamahmudlikhon?label=Followers&style=social) |
+| **Stars** | ![Stars](https://img.shields.io/github/stars/ibnamahmudlikhon?label=Stars&style=social) |
 
 ---
 

@@ -5,7 +5,7 @@
 ## 🚀 Quick Snapshot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ir4Wh0Tzz3hilxjgy/giphy.gif" width="300"/>
+  <img src="https://i.gifer.com/origin/e4/e4f92c58bd13741fd633be8fa5de45bf_w200.gif" width="300"/>
 </p>
 
 ### 💻 Tech Ecosystem

@@ -9,16 +9,6 @@
 
 ---
 
-## 🎨 **Random Inspirational GIF**
-
-Here’s a random motivational GIF to keep you inspired:
-
-![Random GIF](https://api.giphy.com/v1/gifs/random?tag=motivational&rating=g&limit=1&api_key=dc6zaTOxFJmzC)
-
-> **Reload the page** to get another random GIF. Let the creativity flow!
-
----
-
 ## 🚀 **Overview**
 
 Welcome to my GitHub profile! I am **Ibna Mahmud Likhon**, a passionate **Blockchain Innovator**, **Python Specialist**, and **Node.js Expert** focused on building **decentralized solutions** and **smart contracts** for the future of Web3. My mission is to help build secure, scalable, and sustainable decentralized applications (DApps) for the blockchain ecosystem.

@@ -1,6 +1,3 @@
-# 🚀 Ibna Mahmud | Blockchain Innovator
-
-## 💡 Professional Summary
 Seasoned Blockchain Developer with 5+ years expertise in Python, Node.js, and decentralized technologies. Specialized in creating robust, secure blockchain solutions that push the boundaries of digital innovation.
 
 ## 🔧 Core Competencies

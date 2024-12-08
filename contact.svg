@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" style="background: linear-gradient(135deg, #1A1A2E 0%, #16213E 100%);">
   <defs>
     <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6A0572;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#AB83A1;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#0F3460;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#533483;stop-opacity:0.8" />
     </linearGradient>
   </defs>
   
-  <g transform="translate(20, 20)">
-    <g transform="translate(0, 0)">
-      <circle cx="30" cy="30" r="30" fill="url(#iconGradient)"/>
-      <path d="M20,25 L30,35 L40,25" stroke="white" stroke-width="3" fill="none"/>
-      <text x="70" y="35" fill="white" font-size="16">ibnamahmudlikhon@gmail.com</text>
-    </g>
-    
-    <g transform="translate(0, 60)">
-      <circle cx="30" cy="30" r="30" fill="url(#iconGradient)"/>
-      <path d="M15,25 L30,40 L45,25" stroke="white" stroke-width="3" fill="none"/>
-      <text x="70" y="35" fill="white" font-size="16">@ibnamahmudlikhon</text>
-    </g>
+  <!-- Telegram Icon -->
+  <g transform="translate(50, 50)">
+    <circle cx="50" cy="50" r="50" fill="url(#iconGradient)"/>
+    <path d="M35,50 L60,35 L75,65 L50,55 Z" fill="#E94560"/>
+    <text x="120" y="55" fill="white" font-size="18">@ibnamahmudlikhon</text>
+  </g>
+  
+  <!-- Website Icon -->
+  <g transform="translate(50, 130)">
+    <circle cx="50" cy="50" r="50" fill="url(#iconGradient)"/>
+    <path d="M30,50 Q50,30 70,50 Q50,70 30,50" stroke="#E94560" stroke-width="5" fill="none"/>
+    <text x="120" y="55" fill="white" font-size="18">Portfolio Website</text>
   </g>
 </svg>

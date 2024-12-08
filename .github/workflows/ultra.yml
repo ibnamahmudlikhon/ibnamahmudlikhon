@@ -1,11 +1,11 @@
-name: Ultimate Developer Profile
+name: Ultimate Developer Profile Generator
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  generate-profile:
+  generate-dynamic-profile:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -18,7 +18,7 @@ jobs:
             - blockchain: true
             - achievements: true
             - notable: true
-          repositories_skipped: private-repos
           config_timezone: Asia/Dhaka
-          config_display: columns
+          config_display: modern
           optimize: true
+          use_prebuilt_image: true

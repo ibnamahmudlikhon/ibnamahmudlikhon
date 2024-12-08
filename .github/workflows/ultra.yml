@@ -1,0 +1,24 @@
+name: Ultimate Developer Profile
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, repositories
+          plugins:
+            - base.indepth: true
+            - languages: true
+            - blockchain: true
+            - achievements: true
+            - notable: true
+          repositories_skipped: private-repos
+          config_timezone: Asia/Dhaka
+          config_display: columns
+          optimize: true

@@ -13,9 +13,9 @@
 
 Here’s a random inspirational GIF to keep you motivated:
 
-![Random GIF](https://api.giphy.com/v1/gifs/random?api_key=YOUR_API_KEY&tag=motivation&rating=g)
+![Random GIF](https://api.giphy.com/v1/gifs/random?tag=motivational&rating=g&limit=1&api_key=dc6zaTOxFJmzC)
 
-> Get your own random GIF by replacing `YOUR_API_KEY` with your own key from [Giphy API](https://developers.giphy.com/).
+> This is a random GIF pulled from a public API. If you want to try another one, just reload this page!
 
 ---
 

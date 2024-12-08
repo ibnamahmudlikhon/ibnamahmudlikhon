@@ -1,80 +1,49 @@
-# 🚀 Ibna Mahmud | Blockchain & Web3 Innovator
+# 🔗 Ibna Mahmud | Web3 Blockchain Engineer
 
-## 💡 Professional Profile
+[![Blockchain Developer](https://img.shields.io/badge/Web3-Blockchain%20Developer-FF0000?style=for-the-badge&logo=ethereum)](https://github.com/ibnamahmudlikhon)
 
-**Blockchain Solutions Engineer | Python & Node.js Specialist**
+## 🚀 Quick Snapshot
 
-### 🛠 Tech Stack
+<p align="center">
+  <img src="https://media.giphy.com/media/ir4Wh0Tzz3hilxjgy/giphy.gif" width="300"/>
+</p>
 
+### 💻 Tech Ecosystem
+
+![Solidity](https://img.shields.io/badge/-Solidity-FF0000?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![Python](https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?style=flat-square&logo=javascript&logoColor=white)
 
-### 🔧 Core Competencies
+## 🔧 Core Competencies
 
-- 🌐 Smart Contract Development
+- 🌐 Smart Contract Architecture
 - 🔒 Blockchain Security
-- 💻 Decentralized Application Architecture
-- 🔐 Cryptographic Solutions
+- 💡 Decentralized Application Development
+- 🚀 Web3 Infrastructure Design
 
-### 🏆 Professional Achievements
+## 📊 Performance Metrics
 
-- Developed cutting-edge DeFi protocols
-- Implemented robust blockchain infrastructure
-- Engineered scalable decentralized applications
-- Designed advanced cryptographic security solutions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnamahmudlikhon&theme=radical&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnamahmudlikhon&layout=compact&theme=radical)
 
-### 📊 GitHub Performance
+## 🌍 Connect Channels
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnamahmudlikhon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnamahmudlikhon&layout=compact)
+[![Telegram](https://img.shields.io/badge/-Telegram-FF0000?style=flat-square&logo=telegram)](https://t.me/ibnamahmudlikhon)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4500?style=flat-square&logo=react)](https://tinyurl.com/ibnamahmud)
 
-### 🌍 Professional Networks
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](https://t.me/ibnamahmudlikhon)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4A154B?style=flat-square&logo=react)](https://tinyurl.com/ibnamahmud)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ibnamahmudlikhon)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ibnamahmudlikhon)
-
-### 💻 Technology Expertise
-
-**Languages:**
-- Python
-- JavaScript
-- Solidity
-- Node.js
-
-**Blockchain Skills:**
-- Smart Contract Development
-- Ethereum Ecosystem
-- Web3 Integration
-- Decentralized Finance (DeFi)
-
-**Tools & Frameworks:**
-- Hardhat
-- Truffle
-- Web3.js
-- Ganache
-- React
-- Docker
-
-### 💰 Support Open Source
+## 💰 Crypto Support
 
 ```
-Crypto Donation Address:
-0x00fC876d03172279E04CC30E5edCE103c3d23C1A
+ETH: 0x00fC876d03172279E04CC30E5edCE103c3d23C1A
 ```
-
-### 🔍 Profile Highlights
-
-- 🌟 Open Source Contributor
-- 🚀 Blockchain Innovation Enthusiast
-- 💡 Continuous Learning Advocate
-- 🔒 Security-First Approach
 
 ---
 
-*Transforming decentralized dreams into robust technological realities.*
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+</p>
 
-**© 2024 Ibna Mahmud | Blockchain Solutions Engineer**
+*Transforming Blockchain Dreams into Digital Reality*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibnamahmudlikhon&color=red)

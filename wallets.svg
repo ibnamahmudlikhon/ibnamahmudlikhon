@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" style="background-color: #1A1A2E;">
+  <defs>
+    <linearGradient id="walletGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A154B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6A0572;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="50" y="30" width="300" height="100" rx="15" ry="15" fill="url(#walletGradient)"/>
+  
+  <text x="70" y="70" fill="white" font-size="16">0x00fC876d03172279E04CC30E5</text>
+  
+  <g transform="translate(300, 60)">
+    <rect x="0" y="0" width="40" height="40" rx="10" ry="10" fill="#E94560"/>
+    <path d="M10,20 L20,10 L30,20" stroke="white" stroke-width="3" fill="none"/>
+    <path d="M20,10 L20,30" stroke="white" stroke-width="3"/>
+  </g>
+</svg>

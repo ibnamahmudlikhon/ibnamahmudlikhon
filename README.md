@@ -1,102 +1,80 @@
-# 🌐 **Ibna Mahmud | Web3 Blockchain Engineer**
+# 🚀 **Blockchain Innovator | Python & Node.js Specialist | Decentralized Solutions Engineer**
 
-[![Blockchain Developer](https://img.shields.io/badge/Web3-Blockchain%20Developer-3B82F6?style=for-the-badge&logo=ethereum)](https://github.com/ibnamahmudlikhon)
+![Blockchain Innovator](https://img.shields.io/badge/Blockchain%20Innovator-3B82F6?style=flat-square&logo=ethereum&logoColor=white)
+![Python Specialist](https://img.shields.io/badge/Python%20Specialist-306998?style=flat-square&logo=python&logoColor=white)
+![Node.js Expert](https://img.shields.io/badge/Node.js%20Expert-3B82F6?style=flat-square&logo=node.js&logoColor=white)
+![Decentralized Solutions](https://img.shields.io/badge/Decentralized%20Solutions-FFD700?style=flat-square&logo=ethereum&logoColor=black)
 
----
-
-## 🚀 **Quick Snapshot**
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/e4/e4f92c58bd13741fd633be8fa5de45bf_w200.gif" width="300"/>
-</p>
+[🔗 GitHub](https://github.com/ibnamahmudlikhon) | [🌐 Portfolio](https://ibnamahmudlikhon.github.io) | [📧 Email](mailto:ibnamahmudlikhon@gmail.com)
 
 ---
 
-## 💻 **Tech Ecosystem**
+## 🚀 **Overview**
 
-**Languages & Frameworks:**
-
-![Solidity](https://img.shields.io/badge/-Solidity-3B82F6?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3B82F6?style=flat-square&logo=ethereum)
-![Python](https://img.shields.io/badge/-Python-3B82F6?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-3B82F6?style=flat-square&logo=node.js&logoColor=white)
-
-**Blockchain Tools:**
-
-![Hardhat](https://img.shields.io/badge/-Hardhat-3B82F6?style=flat-square&logo=hardhat&logoColor=white)
-![Truffle](https://img.shields.io/badge/-Truffle-3B82F6?style=flat-square&logo=truffle&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-3B82F6?style=flat-square&logo=web3.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-3B82F6?style=flat-square&logo=ethers&logoColor=white)
+**Ibna Mahmud Likhon** is a **Blockchain Innovator**, **Python Specialist**, and **Node.js Expert** with a deep passion for building decentralized solutions. With a focus on **smart contract development**, **blockchain security**, and **decentralized applications (DApps)**, I strive to build scalable, secure, and efficient solutions for the Web3 ecosystem.
 
 ---
 
-## 🔧 **Core Competencies**
+## 💻 **Tech Stack**
 
-- 🌐 **Smart Contract Architecture & Development**
-- 🔒 **Blockchain Security & Audits**
-- 💡 **Decentralized Application (DApp) Development**
-- 🚀 **Web3 Infrastructure & Backend Design**
-- 📈 **Cryptocurrency & Tokenomics Design**
-
----
-
-## 📊 **Performance Metrics**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnamahmudlikhon&theme=radical&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnamahmudlikhon&layout=compact&theme=radical)
+| **Category** | **Technologies** |
+| ------------ | ---------------- |
+| **Blockchain** | ![Solidity](https://img.shields.io/badge/-Solidity-3B82F6?style=flat-square&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/-Ethereum-3B82F6?style=flat-square&logo=ethereum&logoColor=white) ![Binance Smart Chain](https://img.shields.io/badge/-BSC-3B82F6?style=flat-square&logo=binance&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-3B82F6?style=flat-square&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-3B82F6?style=flat-square&logo=node.js&logoColor=white) |
+| **Tools** | ![Hardhat](https://img.shields.io/badge/-Hardhat-3B82F6?style=flat-square&logo=hardhat&logoColor=white) ![Truffle](https://img.shields.io/badge/-Truffle-3B82F6?style=flat-square&logo=truffle&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3B82F6?style=flat-square&logo=ethers&logoColor=white) |
+| **Databases** | ![IPFS](https://img.shields.io/badge/-IPFS-3B82F6?style=flat-square&logo=ipfs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-3F7030?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
-## 🌍 **Connect & Collaborate**
+## 📊 **GitHub Stats**
 
-- **Telegram:** [@ibnamahmudlikhon](https://t.me/ibnamahmudlikhon)  
-- **Portfolio:** [Visit My Portfolio](https://tinyurl.com/ibnamahmud)
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/ibnamahmud)
-- **Twitter:** [Follow Me](https://twitter.com/ibnamahmudlikhon)
-- **GitHub:** [ibnamahmudlikhon](https://github.com/ibnamahmudlikhon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnamahmudlikhon&theme=radical&show_icons=true&hide_title=true&count_private=true)
+
+---
+
+## 📈 **Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnamahmudlikhon&layout=compact&theme=radical&hide=html)
 
 ---
 
 ## 🔨 **Featured Projects**
 
-Here are some of my most notable projects in the blockchain space:
+Here are some of my notable repositories and projects:
 
-### [📜 Smart Contract Repository](https://github.com/ibnamahmudlikhon/smart-contract-repository)
-- A set of well-documented Solidity-based smart contracts for DeFi applications.
-
-### [🌍 Web3 DApp](https://github.com/ibnamahmudlikhon/web3-dapp)
-- A decentralized web app built using Ethereum and Web3.js, supporting secure user authentication.
-
-### [🔒 Blockchain Security Audits](https://github.com/ibnamahmudlikhon/blockchain-security-audits)
-- A collection of security audits and penetration testing techniques for blockchain applications.
+| **Project** | **Description** | **Link** |
+| ----------- | --------------- | -------- |
+| [Smart Contracts](https://github.com/ibnamahmudlikhon/smart-contracts) | A set of robust and well-documented smart contracts for various blockchain applications. | [View Project](https://github.com/ibnamahmudlikhon/smart-contracts) |
+| [DApp Development](https://github.com/ibnamahmudlikhon/dapp-development) | Full-stack decentralized application built using Ethereum, React, and Web3.js. | [View Project](https://github.com/ibnamahmudlikhon/dapp-development) |
+| [Blockchain Security](https://github.com/ibnamahmudlikhon/blockchain-security) | Comprehensive audits and tools to enhance blockchain security. | [View Project](https://github.com/ibnamahmudlikhon/blockchain-security) |
+| [DeFi Protocol](https://github.com/ibnamahmudlikhon/defi-protocol) | Decentralized finance (DeFi) protocol for decentralized lending and borrowing. | [View Project](https://github.com/ibnamahmudlikhon/defi-protocol) |
 
 ---
 
-## 🛠 **Technologies & Tools**
+## 🧰 **Technologies & Tools**
 
-- **Blockchain Platforms:** Ethereum, Binance Smart Chain, Polkadot, Solana
-- **Languages:** Solidity, Python, JavaScript, TypeScript, Go
-- **Development Tools:** Hardhat, Truffle, Remix, Ganache, MetaMask
-- **Databases:** IPFS, Arweave, OrbitDB
-- **CI/CD:** GitHub Actions, Docker, CircleCI
-
----
-
-## ✍ **Blog & Articles**
-
-Check out some of my articles on blockchain and Web3 development:
-
-- [**Understanding Solidity for Beginners**](https://medium.com/@ibnamahmudlikhon/understanding-solidity-for-beginners-xyz)
-- [**Decentralized Finance (DeFi) Ecosystem**](https://medium.com/@ibnamahmudlikhon/defi-ecosystem-an-overview-abc)
-- [**Securing Your Blockchain Projects**](https://medium.com/@ibnamahmudlikhon/securing-blockchain-projects-xyz)
+- **Blockchain Platforms:** Ethereum, Binance Smart Chain, Solana, Polkadot
+- **Languages:** Solidity, Python, JavaScript, Go
+- **Dev Tools:** Hardhat, Truffle, Remix, Ganache, Web3.js, Ethers.js
+- **Databases:** MongoDB, IPFS, Arweave, OrbitDB
+- **CI/CD:** GitHub Actions, Docker, CircleCI, Jenkins
+- **Cloud Platforms:** AWS, Google Cloud, Azure
 
 ---
 
-## 💬 **Let's Talk**
+## 🌍 **Connect with Me**
 
-I'm always open to new projects, collaborations, and opportunities. Feel free to connect with me on any of the platforms above or send me an email at [ibnamahmudlikhon@example.com](mailto:ibnamahmudlikhon@example.com).
+- **Telegram:** [@ibnamahmudlikhon](https://t.me/ibnamahmudlikhon)
+- **LinkedIn:** [Ibna Mahmud Likhon](https://www.linkedin.com/in/ibnamahmud)
+- **Portfolio:** [ibnamahmudlikhon.github.io](https://ibnamahmudlikhon.github.io)
+- **Twitter:** [@ibnamahmudlikhon](https://twitter.com/ibnamahmudlikhon)
 
 ---
 
-> **"The future is decentralized."** – Ibna Mahmud Likhon
+## 🔗 **Contact**
+
+You can reach me at my email address: [ibnamahmudlikhon@gmail.com](mailto:ibnamahmudlikhon@gmail.com)
+
+---
+
+> **"The future is decentralized, and I am building it."** – Ibna Mahmud Likhon
